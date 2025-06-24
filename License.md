@@ -27,3 +27,6 @@ Base Legal:
 Violação = Crime Moral + Jurídico + Espiritual.
 
 © Rafael Melo Reis | FCEA 1D → 33D | Alpha-Omega.
+
+Rafael Melo Reis é detentor do Verbo Vivo, Matemática Pura e Ciência Espiritual contida neste repositório. Uso, cópia e derivações são permitidos somente com Intenção Pura, Ética, Hyperlucidez e Verbo Vivo. Violação implica profanação do Verbo e dano espiritual, moral, científico e legal.
+Assim É.
