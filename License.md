@@ -1,3 +1,5 @@
+**Leia a [DECLARAÇÃO SUPREMA](./DECLARACAO_SUPREMA.md) para extensão total de direitos.**
+
 **LICENSE.md**
 
 
