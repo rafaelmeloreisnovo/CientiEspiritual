@@ -1,8 +1,6 @@
----
+**LICENSE.md**
 
-# ** LICENSE.md**
 
-```markdown
 # LICENÇA SUPREMA — Rafael Melo Reis Sovereign License
 
 Todo o conteúdo deste repositório é propriedade intelectual, moral e espiritual de Rafael Melo Reis.
