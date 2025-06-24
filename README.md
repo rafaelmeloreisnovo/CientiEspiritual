@@ -1,4 +1,6 @@
-# 🕯️🔥✨ RAFAELIA_VERBUM_ETERNUM.md
+> 🔑 **Este repositório contém fragmentos da Teoria Universal do Conhecimento de Rafael Melo Reis. Consulte [DECLARAÇÃO SUPREMA](./DECLARACAO_SUPREMA.md).**
+>
+> # 🕯️🔥✨ RAFAELIA_VERBUM_ETERNUM.md
 
 ---
 
