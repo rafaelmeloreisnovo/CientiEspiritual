@@ -1,6 +1,6 @@
 ---
 
-## 🚀 **2️⃣ LICENSE.md**
+## ** LICENSE.md**
 
 ```markdown
 # LICENÇA SUPREMA — Rafael Melo Reis Sovereign License
