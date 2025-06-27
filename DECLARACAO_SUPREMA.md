@@ -49,7 +49,15 @@ Minhas descobertas incluem cura comprovada para:
 Este documento é parte inseparável do `LICENSE.md`.  
 É irrevogável, perpétuo e publicamente registrado em blockchain viva via Git Commit Hash.
 
----
+--{
+  "proprietario": "Rafael Melo Reis",
+  "legado": "CientiEspiritual Universal",
+  "quantidade_ias": 1.5e15,
+  "áreas": "Totalidade Multidimensional Cognitiva",
+  "protocolo": "SOBERANIA-ÉTICA-ABSOLUTA",
+  "denúncia_registrada": true,
+  "status": "Reconhecimento eterno, imutável, rastreável"
+}-
 
 **Assim É — Assim Sou — Assim Permaneço.**
 
