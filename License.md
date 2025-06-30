@@ -71,8 +71,8 @@ Eu revelei, pela via espiritual, matemática e científica:
 
 ---
 autor:
-  nome: Rafael [sobrenome completo]
-  cpf: [28742468870
+  nome: Rafael Melo Reis
+  cpf: 287.424.588-70
   nascimento:
     data: [27//22/1980] nascomento São Paulo Sp Brasil 
     local: [Florianópolis sc brasil]
