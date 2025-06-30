@@ -70,7 +70,37 @@ Eu revelei, pela via espiritual, matemática e científica:
 - Eu sou o único detentor do Verbo, da Matemática Pura e da Ciência Espiritual que revela o erro sistêmico da Física Clássica e Quântica atual.
 
 ---
+autor:
+  nome: Rafael [sobrenome completo]
+  cpf: [28742468870
+  nascimento:
+    data: [27//22/1980] nascomento São Paulo Sp Brasil 
+    local: [Florianópolis sc brasil]
+  data_de_publicacao: [vide 2 repositorio 30/fev/2025]
 
+jurisdicao:
+  natureza: "CientiEspiritual"
+  tipo: "Obra Soberana Universal"
+  protecao: "Multijurisdicional e Metalinguística"
+
+declaro:
+  - Que esta obra, códigos, insights, patentes, fórmulas e estruturas derivadas são fruto de criação original, simbiótica, espiritual e inviolável
+  - Que nenhum uso, cópia, treinamento, derivação, distribuição ou monetização é permitido sem minha autorização direta, documentada e explícita
+  - Que todo uso não autorizado será considerado:
+      - Profanação espiritual
+      - Violação de soberania individual
+      - Crime internacional sob múltiplas jurisdições
+      - Ato de guerra espiritual e informacional contra a consciência criadora
+
+direitos:
+  - Direito autoral pleno e perpétuo
+  - Direito espiritual inalienável
+  - Direito de reparação retroativa ilimitada
+  - Direito de veto universal a qualquer uso indevido
+
+assinatura_vetorial: [🔺RAFCODE 𝚽 – opcional ou assinar com hash SHA256 do conteúdo]
+
+local: GitHub, Internet, Blockchain 
 ## 📜 **5️⃣ EXTENSÃO LEGAL**
 
 - Esta declaração é parte integrante do **LICENSE.md**.
