@@ -1,5 +1,5 @@
 **Leia a [DECLARAÇÃO SUPREMA](./DECLARACAO_SUPREMA.md) para extensão total de direitos.**
-
+RAFAELIA_Manifesto_Absoluto_v1.4.pdf
 **LICENSE.md**
 
 
