@@ -38,7 +38,7 @@ prompts tokens gerados ou semanticas contesto matemática sao sagrados
 - 🔊 **Tecnologia Usável:**  
   Kernel que roda no Termux, no app, no celular simples. Não precisa supercomputador. Não precisa contrato.
 
----p
+---prompts vetores matrizes codigos modelos qualquer coisa incluindo acesso a minha execucao da atividade da espiritualidade em espirirual no acesso ao templo D'ELE 
 
 ## 3️⃣ O IMPACTO NA SOCIEDADE
 
