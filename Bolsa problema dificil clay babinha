@@ -1,0 +1,120 @@
+beleza. vamos transformar a tua “asa da borboleta” numa conta simples, leve o bastante pra rodar no celular a cada 1 segundo (seeding → harvesting) e detectar aquelas micro‑variações que empurram a probabilidade de 0,00069 para algo em torno do teu “1,666” (o teu gatilho simbólico).
+
+vou te dar três peças práticas:
+
+
+---
+
+1) métrica 1‑segundo super leve (sem “firula”)
+
+no tick  (a cada 1s) pega só o preço . calcula:
+
+retorno instantâneo (log):
+
+
+s_t=\ln\frac{P_t}{P_{t-1}}
+
+\mu_t = (1-\lambda)\,s_t + \lambda\,\mu_{t-1},\quad
+\sigma_t = \sqrt{(1-\lambda)(s_t-\mu_t)^2 + \lambda\,\sigma_{t-1}^2}
+
+z‑score micro e sua inclinação:
+
+
+z_t = \frac{s_t-\mu_t}{\sigma_t+\varepsilon},\qquad
+\Delta z_t = z_t - z_{t-1}
+
+entropia binária 1‑segundo (Up/Down) numa janelinha W (ex.: 60 seg).
+constrói . com :
+
+
+H_t = -\big(p\log p + (1-p)\log(1-p)\big)\quad (\text{nats})
+
+.
+
+“score borboleta” (o teu 1,666)
+
+um escore escalar, barato, que sobe quando há micro‑movimento direcional + mudança de regime:
+
+\boxed{\text{MVS}_t \;=\; |z_t|\;+\;\alpha\,|\Delta z_t|\;+\;\beta\,|\Delta H_t|}
+
+sugestão leve: .
+
+gatilhos:
+
+seeding quando  cruza 1,20 e  (mercado “respirando”, nem ruído puro, nem regime determinístico).
+
+harvesting quando  e .
+
+desarme quando  ou  (virou ruído puro).
+
+
+
+isso é O(1) por segundo: soma, subtração, dois logs, raiz simples. roda liso no Android/Termux.
+
+
+---
+
+2) loop de 1s (script simples, pronto pra Termux)
+
+crypto (1s real) usa Binance pública; B3 costuma ser 1‑min (usa o mesmo motor, só muda o “step”).
+
+# mini-bot 1s: MVS (seeding/harvesting)
+# deps: pip install ccxt numpy
+import time, math, ccxt
+import numpy as np
+
+ex = ccxt.binance({'enableRateLimit': True})
+pair = 'BTC/USDT'  # troque p/ ETH/USDT, etc.
+
+lambda_ = 0.9
+eps = 1e-9
+W = 60
+alpha, beta = 0.6, 0.4
+
+mu = 0.0
+var = 1e-8
+z_prev = 0.0
+Hn_prev = 0.5
+ud = []  # up/down buffer (0/1)
+
+def entropy01(p):
+    if p<=0 or p>=1: return 0.0
+    return -(p*math.log(p) + (1-p)*math.log(1-p)) / math.log(2)
+
+def mvs(z, dz, dH):
+    return abs(z) + alpha*abs(dz) + beta*abs(dH)
+
+def last_price():
+    # usa ticker para leveza; se quiser 1s “verdadeiro”, use klines de 1s (mais pesado)
+    t = ex.fetch_ticker(pair)
+    return float(t['last'])
+
+P_prev = last_price()
+t_prev = time.time()
+
+in_seed = False
+
+while True:
+    P = last_price()
+    s = math.log(P / P_prev)
+    # EWMA
+    mu = (1-lambda_)*s + lambda_*mu
+    var = (1-lambda_)*(s-mu)**2 + lambda_*var
+    sigma = math.sqrt(max(var, eps))
+    z = (s - mu) / (sigma + eps)
+    dz = z - z_prev
+
+    # up/down window
+    ud.append(1 if s>0 else 0)
+    if len(ud)>W: ud.pop(0)
+    p = sum(ud)/len(ud)
+    Hn = entropy01(p)
+    dH = Hn - Hn_prev
+
+    MVS = mvs(z, dz, dH)
+
+    # gatilhos
+    if not in_seed and MVS>1.20 and 0.4 <= Hn <= 0.7:
+        in_seed = True
+        print(f"[SEED] {pair} MVS={MVS:.3f} z={z:.2f} Hn={Hn
+
