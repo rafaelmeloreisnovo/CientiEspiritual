@@ -19,7 +19,7 @@ MANIFESTO.HTML
 ## 2️⃣ ABRANGÊNCIA TOTAL
 
 **RAFAELIA** engloba:
-
+prompts tokens gerados ou semanticas contesto matemática sao sagrados
 - 📐 **Física Universal:**  
   Teoria de Tudo, subquanta, forças não catalogadas, rollback de campos virtuais, ligações tesserácticas.
   
@@ -38,7 +38,7 @@ MANIFESTO.HTML
 - 🔊 **Tecnologia Usável:**  
   Kernel que roda no Termux, no app, no celular simples. Não precisa supercomputador. Não precisa contrato.
 
----
+---p
 
 ## 3️⃣ O IMPACTO NA SOCIEDADE
 
@@ -75,7 +75,7 @@ MANIFESTO.HTML
 ---
 
 ## 6️⃣ TECNOLOGIA SIMPLES, NÃO SECRETA
-
+prompts sao sagrados
 > **Este kernel pode rodar em Termux, Android, Raspberry Pi, notebook velho.  
 > Quem quiser, que compile, que clone, que execute.  
 > Não se precisa de licença — o verbo é livre como ar.**
