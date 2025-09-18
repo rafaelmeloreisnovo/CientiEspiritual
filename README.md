@@ -309,5 +309,115 @@ Matriz Excel/CSV de controles ↔ artigos de lei,
 
 Formulários (DPIA/RIA, registro de consentimento, resposta a titulares).
 
+Claro, ∆RafaelVerboΩ 🌀♾️⚛︎.
+Aqui está a tabela transformada em texto puro contínuo, sem formatação de planilha, para que possas usar livremente:
+
+
+---
+
+Matriz Global de Conformidade em Texto
+
+Bases legais:
+
+GDPR (UE): Artigo 6, com bases de consentimento, contrato, obrigação legal, interesse vital, interesse público ou legítimo interesse.
+
+LGPD (Brasil): Bases de consentimento, obrigação legal/regulatória, contrato, legítimo interesse e outras hipóteses.
+
+CCPA/CPRA (Califórnia): Exige avisos claros e direitos do consumidor; regula “venda/compartilhamento” e opt-out, sem estrutura igual ao GDPR.
+
+PIPL (China): Define regras específicas para categorias sensíveis, fundamentos de tratamento e avaliações obrigatórias.
+
+DPDP (Índia): Prevê fundamentos legais e exceções definidos pela lei de 2023.
+
+PDPA (Singapura): Consentimento como obrigação central, com exceções previstas.
+
+POPIA (África do Sul): Condições para processamento lícito.
+
+AI Act (UE): Não regula base legal de dados pessoais, mas define obrigações de sistemas de IA conforme risco.
+
+
+Direitos dos titulares:
+
+GDPR: Acesso, retificação, apagamento, portabilidade, restrição de tratamento, oposição e direito de não ser submetido a decisões automatizadas.
+
+LGPD: Acesso, correção, portabilidade, eliminação/anonimização, informação clara e revogação de consentimento.
+
+CCPA/CPRA: Direito de saber, acessar, deletar, corrigir, optar por “não vender/compartilhar” e limitar uso de dados sensíveis.
+
+PIPL: Direito de saber, corrigir e deletar; inclui regras para decisões automatizadas.
+
+DPDP: Garante direitos básicos do titular previstos na lei.
+
+PDPA: Acesso, correção e retirada de consentimento, entre outros.
+
+POPIA: Princípios e direitos correlatos de titularidade.
+
+AI Act: Exige transparência, documentação e supervisão humana para IA de alto risco.
+
+
+Avaliação de impacto (DPIA/RIA):
+
+GDPR: Obriga DPIA (Data Protection Impact Assessment) para tratamentos de alto risco.
+
+LGPD: Prevê Relatório de Impacto quando aplicável, sob regulação da ANPD.
+
+CCPA/CPRA: Exige avaliações de risco em determinados cenários.
+
+PIPL: Impõe avaliações de impacto e segurança em operações específicas.
+
+DPDP: Inclui avaliações como boas práticas de governança.
+
+PDPA: Determina avaliação de riscos e notificações.
+
+POPIA: Exige avaliações compatíveis com princípios de proteção.
+
+AI Act: Avaliações obrigatórias de risco e conformidade para IA de alto risco.
+
+
+Transferências internacionais:
+
+GDPR: Permitidas apenas com salvaguardas adequadas, decisões de adequação ou cláusulas contratuais padrão.
+
+LGPD: Regulada pela ANPD, exige salvaguardas contratuais e hipóteses específicas.
+
+CCPA/CPRA: Regula contratos, obrigações e “compartilhamento/venda”.
+
+PIPL: Exige regras estritas e salvaguardas, aplicando-se inclusive fora da China quando envolve titulares chineses.
+
+DPDP: Define condições específicas para transferência internacional.
+
+PDPA: Exige cláusulas contratuais e salvaguardas adequadas.
+
+POPIA: Exige salvaguardas mínimas para transferência.
+
+AI Act: Regula sistemas de IA que operem transfronteira dentro da UE.
+
+
+Segurança:
+
+GDPR: Exige medidas técnicas e organizacionais adequadas ao risco (art. 32).
+
+LGPD: Obriga medidas de segurança proporcionais, segundo a ANPD.
+
+CCPA/CPRA: Inclui requisitos de segurança estabelecidos por regulamentos estaduais.
+
+PIPL: Impõe obrigações específicas de segurança da informação.
+
+DPDP: Exige segurança desde a concepção.
+
+PDPA: Define deveres de proteção proporcionais.
+
+POPIA: Exige condições mínimas de segurança.
+
+AI Act: Impõe robustez técnica, gestão de dados, logs e monitoramento de risco para sistemas de IA.
+
+
+
+---
+
+📌 Agora tens a versão em texto puro, sem tabelas, mas cobrindo todos os órgãos e leis que citei antes.
+
+Queres que eu compacte isso em um “juramento ético único” (um parágrafo manifesto que sintetize todas essas obrigações em linguagem simbiótica + jurídica ao mesmo tempo)?
+
 
 
