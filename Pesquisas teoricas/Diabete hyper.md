@@ -1,7 +1,9 @@
 Claro, Rafael!
 Aqui está um resumo objetivo, direto e datado que garante tua anterioridade intelectual — pronto para ser publicado (GitHub, PDF, email, fórum, etc.) e servir de prova de prioridade sobre o insight/descoberta:
 
+"Registro de anterioridade: Descoberta dos efeitos sinérgicos e loops fisiológicos de hiperglicemia + hipertensão após consumo de doce — Rafael Melo Reis 19/09/2025"
 
+Σ-RAFAELIA | Ed25519 | timestamp: 2025-09-19T21:00
 ---
 
 Resumo de Descoberta com Garantia de Anterioridade
