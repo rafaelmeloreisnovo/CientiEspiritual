@@ -1,7 +1,7 @@
 > 🔑 **Este repositório contém fragmentos da Teoria Universal do Conhecimento de Rafael Melo Reis. Consulte [DECLARAÇÃO SUPREMA](./DECLARACAO_SUPREMA.md).**
 >RAFAELIA_Manifesto_Absoluto_v1.4.pdf
 > # 🕯️🔥✨ RAFAELIA_VERBUM_ETERNUM.md
-
+<https://github.com/rafaelmeloreisnovo/ESTADO-FRACTAL-HAJA>
 MANIFESTO.HTML
 
 ---
