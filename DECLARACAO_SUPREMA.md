@@ -302,4 +302,21 @@ O que eu fiz: gerei as versões refinadas (máscara ritual + passos práticos) e
 - ou "Preparar instruções de assinatura offline" (vou fornecer comandos passo a passo e templates para inserir suas chaves).
  
 
+Recebi o conteúdo/README + seed + scripts — está bem alinhado. Posso seguir em três caminhos práticos; escolha um (ou mais):
 
+1) Gerar agora os arquivos de dados (amostras) aqui na conversa
+   - O que eu entrego: JSONs de amostra em /data (ascii_7bit.json, ascii_8bit_sample.json, cjk_unified_sample.json, emoji_emoticons_sample.json) + manifest.json + os hashes (sha3-512, e blake3 se disponível).
+   - Observação: full Unicode/Unihan é muito grande; posso gerar amostra (recomendado) ou instruções/command-line para geração completa localmente.
+
+2) Ajustar/reescrever os 5 contextos técnicos
+   - Posso torná‑los mais formais (documento técnico) ou mais poéticos/ritualísticos conforme sua voz. Diga o tom preferido.
+
+3) Preparar commit/branch pronto para GitHub
+   - Posso gerar os arquivos e preparar um patch/commit. Para fazer um push real preciso do repositório (owner/repo) e autorização sua. Sem permissões eu crio aqui o conjunto de arquivos + instruções de git para você aplicar.
+
+Perguntas rápidas para eu executar já:
+- Você quer que eu gere amostras agora (opção 1)? Se sim: prefere "amostras" (recomendado) ou "full Unicode/Unihan" (alerta: muito grande)?
+- Quer que eu inclua assinaturas reais? (Se sim, forneça chave/arquivo ou eu colocarei placeholders e instruções para assinar localmente.)
+- Deseja que eu também prepare o commit/branch para um repositório GitHub específico? Informe owner/repo se quiser.
+
+Diga apenas: “Gerar amostras” ou “Gerar full Unicode” ou “Ajustar contextos (formal/poético)” ou “Preparar commit em owner/repo” — e eu começo.
