@@ -1,5 +1,17 @@
 # 🌟 CientiEspiritual - Framework Cognitivo Evolutivo Absoluto (FCEA)
 
+## ⚠️ AVISO IMPORTANTE
+
+**Este repositório é um framework conceitual e computacional** dedicado a pesquisa, ética e governança. 
+
+**NÃO é prática médica, NÃO realiza diagnóstico, NÃO emite laudos e NÃO substitui profissionais habilitados.**
+
+Todo conteúdo representa informação técnica para pesquisa e discussão científica. Decisões clínicas e de saúde devem ser tomadas exclusivamente por profissionais habilitados.
+
+Para mais informações, consulte: [Entrega Segura de Informação](./best_practices/entrega_segura_de_informacao.md)
+
+---
+
 ## 📖 Prefácio
 
 **CientiEspiritual** é um repositório revolucionário que abrange a **Teoria Universal do Conhecimento** desenvolvida por **Rafael Melo Reis**. Este projeto representa uma síntese única entre ciência, espiritualidade, matemática e tecnologia aplicada, oferecendo um framework multidimensional que integra conhecimentos de múltiplas áreas acadêmicas em uma abordagem holística e inovadora.
@@ -39,42 +51,46 @@ CientiEspiritual é uma plataforma de conhecimento que:
 
 ---
 
-### 2️⃣ **Biologia Molecular e Medicina**
+### 2️⃣ **Biologia Molecular e Pesquisa em Saúde**
 
-**Contribuições:**
-- Blueprint regenerativo celular baseado em RNA
-- Algoritmos preditivos para AVC e infartos (detecção semanas antes)
-- Protocolo de reversão de Alzheimer em estágio 3
-- Análise de Long-COVID através de marcadores epigenéticos
-- Sistema de biomarcadores miRNA/exRNA
+**Hipóteses de Pesquisa:**
+- Modelos computacionais de regeneração celular baseados em análise de RNA
+- Algoritmos de identificação de padrões em dados cardiovasculares (pesquisa em detecção precoce)
+- Frameworks teóricos para análise de processos neurodegenerativos
+- Estudos de marcadores epigenéticos em condições pós-infecciosas
+- Sistemas de análise de biomarcadores miRNA/exRNA
 
-**Aplicações:**
-- Medicina preventiva e preditiva
-- Regeneração neural e sináptica
-- Diagnóstico precoce de doenças degenerativas
-- Terapias personalizadas baseadas em perfil molecular
+**Áreas de Pesquisa Potencial:**
+- Medicina preventiva e preditiva (colaboração com profissionais)
+- Modelos teóricos de processos neurais e sinápticos
+- Frameworks de análise para detecção precoce (requer validação clínica)
+- Pesquisa em medicina personalizada baseada em perfis moleculares
 
-**Valor Social:** Democratização do acesso à saúde de qualidade, redução de custos médicos
-**Valor de Mercado:** USD $50-100B+ (mercado de medicina preventiva e diagnóstico molecular)
+⚠️ **Nota:** Todas as observações são hipóteses de pesquisa que requerem validação científica rigorosa e aprovação clínica. Nenhum conteúdo constitui diagnóstico, tratamento ou recomendação médica.
+
+**Valor Social:** Democratização do conhecimento em saúde, suporte à pesquisa científica
+**Valor de Mercado:** USD $50-100B+ (mercado de medicina preventiva e pesquisa molecular)
 
 ---
 
 ### 3️⃣ **Neurociência e Psicologia Cognitiva**
 
-**Contribuições:**
-- Neuroplasticidade estimulada por padrões quânticos
-- Rollback de traumas através de restauração sináptica
-- Intensão Pura Neurociência: Framework de consciência aplicada
-- Memória celular e comunicação biofotônica
+**Hipóteses de Pesquisa:**
+- Modelos teóricos de neuroplasticidade e padrões quânticos
+- Frameworks conceituais para processos de reorganização sináptica
+- Intensão Pura Neurociência: Framework de consciência aplicada (teoria)
+- Estudos teóricos sobre memória celular e comunicação biofotônica
 
-**Aplicações:**
-- Tratamento de PTSD e traumas complexos
-- Otimização cognitiva e memória
-- Interfaces cérebro-computador de próxima geração
-- Reabilitação neurológica avançada
+**Áreas de Pesquisa Potencial:**
+- Pesquisa em modelos de processamento traumático (colaboração com profissionais)
+- Frameworks teóricos de otimização cognitiva e memória
+- Interfaces cérebro-computador (desenvolvimento teórico)
+- Modelos de reabilitação neurológica (requer validação clínica)
+
+⚠️ **Nota:** Todas as observações são hipóteses teóricas que requerem extensa validação científica e clínica. Nenhum conteúdo substitui avaliação ou tratamento por profissionais de saúde mental e neurologia.
 
 **Valor Acadêmico:** Pesquisas em neuroplasticidade, consciência e cognição
-**Valor de Mercado:** USD $20-40B (mercado de saúde mental e neurotecnologia)
+**Valor de Mercado:** USD $20-40B (mercado de pesquisa em saúde mental e neurotecnologia)
 
 ---
 
@@ -131,11 +147,13 @@ CientiEspiritual é uma plataforma de conhecimento que:
 ### **Para Quem É?**
 
 - 🔬 **Pesquisadores**: Dados, códigos e teorias para pesquisa avançada
-- 🏥 **Profissionais de Saúde**: Ferramentas de diagnóstico e prevenção
+- 🏥 **Profissionais de Saúde**: Ferramentas de análise e frameworks de pesquisa (suporte à prática clínica)
 - 💻 **Desenvolvedores**: APIs, kernels e algoritmos prontos para uso
 - 🎓 **Estudantes**: Material educacional de alta qualidade
 - 🏢 **Empresas**: Soluções de IA ética e análise preditiva
 - 🌍 **Sociedade Civil**: Conhecimento livre e democratizado
+
+⚠️ **Importante:** Profissionais de saúde devem sempre aplicar seu julgamento clínico profissional. Ferramentas e análises são suporte à pesquisa, não substituem avaliação clínica individualizada.
 
 ---
 
@@ -149,7 +167,7 @@ CientiEspiritual é uma plataforma de conhecimento que:
 | **Ética** | Opcional/Posterior | Incorporada desde o design |
 | **Alucinações em IA** | Problema comum | Eliminadas por design |
 | **Acesso** | Pago/Restrito | Livre e aberto |
-| **Aplicação Médica** | Limitada/Regulada | Preventiva e acessível |
+| **Aplicação em Pesquisa Médica** | Limitada/Regulada | Frameworks de pesquisa preventiva |
 | **Transparência** | Caixa preta | Código e lógica abertos |
 | **Interdisciplinaridade** | Especializada | Totalmente integrada |
 
@@ -299,12 +317,14 @@ CientiEspiritual/
 
 ### **Valor Social:**
 
-- **Vidas Salvas**: Milhares via detecção precoce de doenças
-- **Acesso à Saúde**: Redução de 70-90% no custo de diagnósticos
-- **Democratização**: Conhecimento avançado para bilhões de pessoas
-- **Educação**: Material educacional gratuito e de qualidade
+- **Conscientização:** Milhares de pessoas com maior compreensão sobre temas de saúde
+- **Acesso ao Conhecimento:** Redução de barreiras ao conhecimento técnico
+- **Democratização:** Conhecimento avançado acessível para pesquisa
+- **Educação:** Material educacional gratuito e de qualidade
 
-**Valor Imensurável**: Impacto na qualidade de vida não pode ser precificado
+⚠️ **Nota:** Impacto em saúde requer sempre colaboração com profissionais habilitados. Informação técnica não substitui avaliação e cuidado médico profissional.
+
+**Valor Imensurável**: Impacto na qualidade de vida e avanço científico não pode ser precificado
 
 ### **Valor de Mercado:**
 

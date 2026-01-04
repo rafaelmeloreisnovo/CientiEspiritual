@@ -90,9 +90,11 @@ Potencial para atrair:
 - **Economia para sistema de saúde**: USD $10-50B/ano globalmente
 
 #### **Acesso Universal**
-- **Pessoas beneficiadas**: 1-2 bilhões (países em desenvolvimento)
-- **Doenças tratáveis**: Alzheimer, AVC, diabetes, long-COVID
-- **Anos de vida saudável ganhos**: 50-100 milhões DALY
+- **Pessoas potencialmente beneficiadas**: 1-2 bilhões (países em desenvolvimento) com maior acesso a informação técnica
+- **Áreas de pesquisa**: Frameworks para análise de processos neurodegenerativos, cardiovasculares, metabólicos e pós-infecciosos
+- **Impacto potencial em saúde**: Estimado em 50-100 milhões DALY (através de maior conscientização e acesso a informação, sempre em colaboração com profissionais habilitados)
+
+⚠️ **Nota:** Qualquer aplicação em saúde requer validação clínica rigorosa, aprovação regulatória e colaboração com profissionais qualificados.
 
 ### Democratização do Conhecimento
 
@@ -116,9 +118,9 @@ Potencial para atrair:
 ### Justiça Social
 
 #### **Equidade em Saúde**
-- **Reduz disparidades** entre países ricos e pobres
-- **Acesso igual** a diagnósticos avançados
-- **Empoderamento**: Paciente controla seus próprios dados
+- **Reduz disparidades** entre países ricos e pobres através do acesso a informação técnica
+- **Acesso ampliado** a frameworks de análise avançados (sempre com supervisão profissional)
+- **Empoderamento**: Paciente melhor informado para dialogar com profissionais sobre seus próprios dados
 
 ### **VALOR SOCIAL: IMENSURÁVEL**
 *Vidas salvas, anos de vida saudável, acesso democratizado, justiça social*
@@ -176,20 +178,22 @@ Potencial para atrair:
 **Participação Potencial**: 10-15%
 
 **Diferencial competitivo**:
-- ✅ Reversão de Alzheimer demonstrada
-- ✅ Neuroplasticidade estimulada
-- ✅ Tratamento de PTSD
-- ✅ Baixo custo vs. farmacêuticos
+- ✅ Frameworks teóricos para análise de processos neurodegenerativos (requer validação clínica)
+- ✅ Modelos de neuroplasticidade (pesquisa em desenvolvimento)
+- ✅ Pesquisa em processamento traumático (colaboração com profissionais)
+- ✅ Baixo custo computacional vs. sistemas tradicionais
 
-**Modelos de receita**:
-- Terapias licenciadas: USD $5,000-10,000 por paciente
-- Software de reabilitação: USD $100-300/mês
-- Certificação profissional: USD $5,000-10,000
+⚠️ **Importante:** Todas as aplicações em saúde mental e neurologia requerem validação clínica rigorosa, aprovação regulatória e implementação exclusiva por profissionais habilitados.
 
-**Market size**:
-- 50M+ pacientes de Alzheimer globalmente
-- 100M+ com declínio cognitivo
-- 200M+ buscando otimização cognitiva
+**Modelos de receita potenciais**:
+- Licenciamento de frameworks de pesquisa
+- Ferramentas de suporte à decisão clínica (uso profissional)
+- Certificação e treinamento profissional: USD $5,000-10,000
+
+**Market size potencial**:
+- 50M+ pacientes com condições neurodegenerativas globalmente (mercado de pesquisa e ferramentas profissionais)
+- 100M+ com declínio cognitivo (área de pesquisa)
+- 200M+ interessados em saúde cognitiva (educação e conscientização)
 
 #### 4️⃣ **IA Ética/Enterprise: USD $10-15B**
 
