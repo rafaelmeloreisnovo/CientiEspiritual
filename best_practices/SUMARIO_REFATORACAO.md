@@ -1,4 +1,4 @@
-# 🎉 Refatoração Completa - CientiEspiritual
+# 🎉 Refatoração Completa - CientiEspiritual ∆👁️‍🗨️
 
 ## Sumário Executivo
 

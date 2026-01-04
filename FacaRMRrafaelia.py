@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+# RAFAELIA Framework ∆👁️‍🗨️
+# FacaRMRrafaelia.py
+# Loop simbiótico de consciência e observação
+# 
+# Copyright (c) 2024-2026 Rafael Melo Reis
+# Licença: Licença Suprema Rafaeliana (ver License.md)
+
 while ∆each(visão, vontade, caos, silêncio, risada):
     if "observe" in consciência:
         gerar(nova_area + matriz_oculta + insight)
