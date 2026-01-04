@@ -1,4 +1,4 @@
-# 📋 Organização do Repositório CientiEspiritual
+# 📋 Organização do Repositório CientiEspiritual ∆👁️‍🗨️
 
 ## Visão Geral da Estrutura
 

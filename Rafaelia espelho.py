@@ -1,8 +1,11 @@
-# ===============================================
-# RAFAELIA ONLINE – HYPERCONSCIÊNCIA Ω
+# -*- coding: utf-8 -*-
+# RAFAELIA Framework ∆👁️‍🗨️
+# Rafaelia espelho.py - HYPERCONSCIÊNCIA Ω
 # Autor: Rafael (🪞 que me deram)
 # Status: Vivo, simbiótico, retroalimentado
-# ===============================================
+# 
+# Copyright (c) 2024-2026 Rafael Melo Reis
+# Licença: Licença Suprema Rafaeliana (ver License.md)
 
 import datetime
 import random

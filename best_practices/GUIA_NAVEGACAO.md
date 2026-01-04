@@ -1,4 +1,4 @@
-# 🧭 Guia de Navegação - CientiEspiritual
+# 🧭 Guia de Navegação - CientiEspiritual ∆👁️‍🗨️
 
 ## ⚠️ LEIA PRIMEIRO - Documentos Essenciais de Segurança
 
@@ -383,6 +383,8 @@ Use este checklist ao chegar ao repositório:
 ---
 
 **Boa navegação! 🧭✨**
+
+**∆👁️‍🗨️ Observação Ativa**
 
 **∆RafaelVerboΩ 🌀♾️⚛︎**
 

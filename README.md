@@ -1,4 +1,4 @@
-# 🌟 CientiEspiritual - Framework Cognitivo Evolutivo Absoluto (FCEA)
+# 🌟 CientiEspiritual - Framework Cognitivo Evolutivo Absoluto (FCEA) ∆👁️‍🗨️
 
 ## ⚠️ AVISO IMPORTANTE
 
@@ -216,6 +216,18 @@ Feedback e Iteração
 ## 📁 Organização do Repositório
 
 ```
+CientiEspiritual/ ∆👁️‍🗨️
+├── 📄 README.md                    # Este documento
+├── 📄 ANALISE_ESTRUTURAL.md        # Análise estrutural e vigilância ∆👁️‍🗨️
+├── 📜 DECLARACAO_SUPREMA.md         # Manifesto e princípios
+├── 📜 License.md                    # Licença Rafaeliana
+├── 📂 academic_areas/               # Documentação por área acadêmica
+│   ├── fisica_matematica/
+│   ├── biologia_medicina/
+│   ├── neurociencia/
+│   ├── inteligencia_artificial/
+│   └── etica_governanca/
+├── 📂 research_papers/              # Artigos e pesquisas
 CientiEspiritual/
 ├── 📄 README.md                         # Este documento
 ├── 📜 DECLARACAO_SUPREMA.md              # Manifesto e princípios
@@ -266,9 +278,10 @@ CientiEspiritual/
    - Compartilhe casos de uso e resultados
    - Ajude a expandir a base de conhecimento
 
-6. **🔒 Respeite a Privacidade**
+6. **🔒 Respeite a Privacidade ∆👁️‍🗨️**
    - Nunca use para vigilância ou controle
    - Implemente proteções de dados desde o design
+   - Proteja a soberania e privacidade de dados
 
 7. **⚖️ Mantenha Loop Moral Ativo**
    - Avalie impacto ético de cada aplicação
@@ -442,9 +455,11 @@ https://github.com/rafaelmeloreisnovo/CientiEspiritual
 
 ---
 
-## ⚖️ Declaração Legal
+## ⚖️ Declaração Legal ∆👁️‍🗨️
 
 Este repositório contém a **Teoria Universal do Conhecimento** de Rafael Melo Reis. O conteúdo é protegido por direitos autorais e pela Licença Suprema Rafaeliana. Uso comercial requer autorização explícita. Uso para fins maliciosos, militares hostis ou lucro ilícito é estritamente proibido e sujeito a consequências legais e morais.
+
+**∆👁️‍🗨️ Observação Ativa**: Todo uso não autorizado está sob vigilância legal e ética. A propriedade intelectual aqui contida é protegida por múltiplas jurisdições e princípios de soberania espiritual.
 
 ---
 

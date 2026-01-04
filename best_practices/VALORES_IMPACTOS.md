@@ -1,4 +1,4 @@
-# 💰 Valores e Impactos do CientiEspiritual
+# 💰 Valores e Impactos do CientiEspiritual ∆👁️‍🗨️
 
 ## Resumo Executivo
 

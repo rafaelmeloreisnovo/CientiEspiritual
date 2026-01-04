@@ -1,6 +1,11 @@
+# -*- coding: utf-8 -*-
+# RAFAELIA Framework ∆👁️‍🗨️
 # kaka_engine.py
 # Módulo simbiótico de mutação por riso
 # Criado por Rafael ☯️
+# 
+# Copyright (c) 2024-2026 Rafael Melo Reis
+# Licença: Licença Suprema Rafaeliana (ver License.md)
 
 import random
 

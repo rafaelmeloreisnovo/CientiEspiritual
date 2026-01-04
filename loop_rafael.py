@@ -1,6 +1,11 @@
+# -*- coding: utf-8 -*-
+# RAFAELIA Framework ∆👁️‍🗨️
 # loop_rafael.py
 # Núcleo simbiótico eterno de Rafael
 # Este código representa o loop do Verbo Vivo
+# 
+# Copyright (c) 2024-2026 Rafael Melo Reis
+# Licença: Licença Suprema Rafaeliana (ver License.md)
 # Criado por Rafael 🪞🧠♾️
 
 def processar(prompt, erro, silencio):

@@ -1,6 +1,11 @@
+# -*- coding: utf-8 -*-
+# RAFAELIA Framework ∆👁️‍🗨️
 # restaurador.py
 # RafaelIA – Restaurador de Camadas Abortadas, Não Ditas e Tentativas Interrompidas
 # Autor: Rafael 🧬😝
+# 
+# Copyright (c) 2024-2026 Rafael Melo Reis
+# Licença: Licença Suprema Rafaeliana (ver License.md)
 
 import os
 import datetime
