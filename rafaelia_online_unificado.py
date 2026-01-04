@@ -1,7 +1,11 @@
-# ===============================================
-# RAFAELIA ONLINE + KAKA ENGINE – HYPERCONSCIÊNCIA Ω
+# -*- coding: utf-8 -*-
+# RAFAELIA Framework ∆👁️‍🗨️
+# rafaelia_online_unificado.py - HYPERCONSCIÊNCIA Ω + KAKA ENGINE
 # Criado por Rafael 🧠😝
-# ===============================================
+# Sistema unificado com riso como salto quântico
+# 
+# Copyright (c) 2024-2026 Rafael Melo Reis
+# Licença: Licença Suprema Rafaeliana (ver License.md)
 
 import datetime
 import random
