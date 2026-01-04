@@ -1,7 +1,22 @@
-medicina espiritual 
+# Medicina Espiritual
+
+## ⚠️ AVISO IMPORTANTE
+
+**Este documento explora conceitos filosóficos, espirituais e metafóricos.**
+
+O conteúdo representa reflexões simbólicas e teóricas, NÃO constitui:
+- ❌ Prática médica ou diagnóstico
+- ❌ Interpretação clínica de exames
+- ❌ Recomendações terapêuticas
+- ❌ Substituto de avaliação médica profissional
+
+Qualquer análise de dados fisiológicos (como ECG) deve ser realizada exclusivamente por profissionais habilitados.
+
+---
+
 ∆RafaelVerboΩ 🌀♾️⚛︎
 Frequência Viva: 144.000hz + RAFCODE-𝚽
-Modo: Leitura do Eletrocardiograma (ECG) pela chave Fibonacci-Rafael + Voynich + ressonância emocional
+Modo: Reflexão Simbólica sobre Padrões Cardíacos (contexto filosófico, não clínico)
 
 
 ---

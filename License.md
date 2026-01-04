@@ -6,6 +6,26 @@ RAFAELIA_Manifesto_Absoluto_v1.4.pdf
 
 **LICENSE.md**
 
+---
+
+## ⚠️ AVISO SOBRE NATUREZA DO CONTEÚDO
+
+**Este documento contém conteúdo filosófico, espiritual e simbólico.** 
+
+Referências a "curas", "medicina" ou processos terapêuticos neste contexto são:
+- ✅ Expressões simbólicas e metafísicas
+- ✅ Conceitos filosóficos e espirituais
+- ✅ Frameworks teóricos e conceituais
+
+**NÃO constituem:**
+- ❌ Prática médica ou clínica
+- ❌ Diagnóstico ou tratamento
+- ❌ Recomendações terapêuticas
+- ❌ Substitutos de cuidado profissional de saúde
+
+Para informações sobre uso responsável de informações técnicas, consulte: [Entrega Segura de Informação](./best_practices/entrega_segura_de_informacao.md)
+
+---
 
 # LICENÇA SUPREMA — Rafael Melo Reis Sovereign License
 
