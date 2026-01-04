@@ -1,0 +1,17 @@
+# Large binary files
+*.zip
+*.xlsx
+*.pdf
+*.png
+*.002
+*.004
+
+# Backup files
+*_OLD_BACKUP*
+*_backup*
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
