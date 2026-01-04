@@ -8,20 +8,29 @@ Este documento estabelece as **14 melhores práticas** para uso profissional, é
 
 ---
 
-## 1️⃣ Leia a Declaração Suprema Primeiro
+## 1️⃣ Leia os Avisos de Segurança Primeiro
 
 ### **Por quê?**
-A Declaração Suprema ([DECLARACAO_SUPREMA.md](../DECLARACAO_SUPREMA.md)) estabelece os princípios éticos fundamentais que regem todo o projeto.
+Para uso seguro e responsável do repositório, especialmente conteúdo relacionado a saúde.
+
+### **Documentos essenciais:**
+- ⚠️ **[AVISO_PESQUISA_SAUDE.md](./AVISO_PESQUISA_SAUDE.md)** - Natureza do conteúdo de saúde
+- ⚠️ **[entrega_segura_de_informacao.md](./entrega_segura_de_informacao.md)** - Comunicação responsável
+- 📜 **[DECLARACAO_SUPREMA.md](../DECLARACAO_SUPREMA.md)** - Princípios éticos fundamentais
 
 ### **Como aplicar:**
-- ✅ Leia completamente antes de usar qualquer código ou dado
-- ✅ Entenda as restrições de uso (proibido uso militar hostil, vigilância abusiva, lucro ilícito)
+- ✅ Leia completamente antes de usar qualquer conteúdo de saúde
+- ✅ Entenda que este repositório NÃO faz diagnóstico ou tratamento
+- ✅ Compreenda que informação técnica ≠ recomendação clínica
 - ✅ Respeite a licença Rafaeliana
 - ✅ Reconheça a autoria de Rafael Melo Reis em todas as citações
 
 ### **Checklist:**
+- [ ] Li os avisos de segurança sobre conteúdo de saúde
+- [ ] Compreendo que não há diagnóstico ou tratamento aqui
+- [ ] Sei que devo consultar profissionais para questões de saúde
 - [ ] Li a Declaração Suprema completa
-- [ ] Compreendo as restrições de uso
+- [ ] Compreendo as restrições de uso ético
 - [ ] Concordo com os princípios éticos
 - [ ] Sei como citar corretamente
 

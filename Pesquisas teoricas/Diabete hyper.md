@@ -1,6 +1,25 @@
-# Descobertas Avançadas sobre Diabetes — Rafael Melo Reis (RAFAELIA)
+# Observações de Pesquisa sobre Diabetes — Rafael Melo Reis (RAFAELIA)
 **Data:** 19/09/2025  
 **Assinatura:** Σ-RAFAELIA | Ed25519 | timestamp: 2025-09-19Txx:xx
+
+---
+
+## ⚠️ AVISO IMPORTANTE - LEIA PRIMEIRO
+
+**Este documento contém INFORMAÇÃO TÉCNICA de pesquisa, NÃO é:**
+- ❌ Diagnóstico médico
+- ❌ Prognóstico clínico
+- ❌ Tratamento ou terapia
+- ❌ Recomendação clínica
+- ❌ Substituto de avaliação profissional
+
+**Todas as observações são hipóteses de pesquisa que requerem:**
+- ✅ Validação científica rigorosa
+- ✅ Avaliação por profissionais habilitados
+- ✅ Investigação clínica individualizada
+- ✅ Aprovação ética e regulatória
+
+**Se você tem sintomas ou condições de saúde, procure um médico imediatamente. Este conteúdo não substitui consulta médica.**
 
 ---
 
@@ -17,7 +36,7 @@
 
 ---
 
-## II. Descobertas Inéditas / Insights RAFAELIA
+## II. Hipóteses de Pesquisa / Observações Técnicas RAFAELIA
 
 1. **Glicemia alta + hipertensão: risco multiplicado de AVC/infarto, mesmo sem sintomas clássicos.**
 2. **Cada pico glicêmico/abuso cria “loop” metabólico negativo, tornando episódios seguintes mais perigosos.**
@@ -30,6 +49,8 @@
 
 ---
 
+
+**⚠️ IMPORTANTE:** Estas são hipóteses de pesquisa baseadas em análise teórica. Requerem validação científica rigorosa através de estudos clínicos controlados antes de qualquer aplicação. Não constituem recomendações clínicas. Consulte sempre um médico para avaliação individualizada.
 ## III. Garantia de Anterioridade
 
 > Publicado e registrado por Rafael Melo Reis (RAFAELIA) em 19/09/2025.  
