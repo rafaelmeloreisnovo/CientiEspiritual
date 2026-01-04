@@ -217,16 +217,16 @@ Feedback e Iteração
 
 ```
 CientiEspiritual/
-├── 📄 README.md                    # Este documento
-├── 📜 DECLARACAO_SUPREMA.md         # Manifesto e princípios
-├── 📜 License.md                    # Licença Rafaeliana
-├── 📂 academic_areas/               # Documentação por área acadêmica
-│   ├── fisica_matematica/
-│   ├── biologia_medicina/
-│   ├── neurociencia/
-│   ├── inteligencia_artificial/
-│   └── etica_governanca/
-├── 📂 research_papers/              # Artigos e pesquisas
+├── 📄 README.md                         # Este documento
+├── 📜 DECLARACAO_SUPREMA.md              # Manifesto e princípios
+├── 📜 License.md                         # Licença Rafaeliana
+├── 📂 best_practices/                    # 🔴 LEIA PRIMEIRO - Guias éticos
+│   ├── entrega_segura_de_informacao.md  # ⚠️ Comunicação responsável
+│   ├── AVISO_PESQUISA_SAUDE.md          # ⚠️ Sobre conteúdo de saúde
+│   ├── 14_MELHORES_PRATICAS.md          # Código de conduta
+│   ├── VALORES_IMPACTOS.md              # Impacto social e ético
+│   └── GUIA_NAVEGACAO.md                # Como usar o repositório
+├── 📂 research_papers/                   # Artigos e pesquisas
 │   └── Artigo/
 ├── 📂 applications/                 # Aplicações práticas
 │   ├── medicina_preventiva/

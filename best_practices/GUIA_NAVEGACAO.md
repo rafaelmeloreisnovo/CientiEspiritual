@@ -1,5 +1,25 @@
 # 🧭 Guia de Navegação - CientiEspiritual
 
+## ⚠️ LEIA PRIMEIRO - Documentos Essenciais de Segurança
+
+**Antes de usar qualquer conteúdo deste repositório:**
+
+1. **[AVISO_PESQUISA_SAUDE.md](./AVISO_PESQUISA_SAUDE.md)** ⚠️
+   - **LEIA PRIMEIRO** se você busca informações sobre saúde
+   - Este repositório NÃO faz diagnóstico, tratamento ou emite laudos
+   - Explica a natureza do conteúdo de pesquisa
+
+2. **[entrega_segura_de_informacao.md](./entrega_segura_de_informacao.md)** ⚠️
+   - Diretrizes sobre comunicação responsável
+   - Segurança psicológica e interpretação adequada
+   - Informação ≠ Diagnóstico
+
+3. **[14_MELHORES_PRATICAS.md](./14_MELHORES_PRATICAS.md)**
+   - Código de conduta para usuários
+   - Uso ético do repositório
+
+---
+
 ## Índice Rápido
 
 Este guia ajuda você a encontrar rapidamente o conteúdo que precisa no repositório CientiEspiritual.
