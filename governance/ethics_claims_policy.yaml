@@ -1,0 +1,94 @@
+schema: rafaelia-ethics-claims-policy/v1
+status: canonical
+updated: 2026-07-21
+owner:
+  name: Rafael Melo Reis
+  signature: "RAFCODE-Φ — ∆RafaelVerboΩ — 𓂀ΔΦΩ"
+
+canonical_documents:
+  - 00_LEIA_PRIMEIRO_ETICA_AUTORIA.md
+  - ETICA_COLETIVA_E_PROTECAO_DAS_CRIANCAS.md
+  - DECLARACAO_SUPREMA.md
+  - License.md
+
+invariants:
+  authorship_is_not_ownership_of_ethics: true
+  ethics_is_collective: true
+  child_protection_priority: true
+  third_party_provenance_required: true
+  missing_evidence_is_token_vazio: true
+  claims_default_to_denied: true
+
+claim_classes:
+  E:
+    name: exata
+    requires:
+      - precise_object
+      - reproducible_method
+      - verifiable_artifact
+      - result
+      - limitations
+  C:
+    name: convencao
+    requires:
+      - explicit_definition
+      - declared_scope
+  H:
+    name: hipotese
+    requires:
+      - falsifiable_formulation
+      - validation_plan
+      - uncertainty
+  P:
+    name: parabola
+    requires:
+      - symbolic_or_didactic_label
+      - no_substitution_for_measurement
+
+claim_gate:
+  default:
+    claim_allowed: false
+    evidence: TOKEN_VAZIO
+  allow_only_when:
+    - class_assigned
+    - provenance_recorded
+    - evidence_linked
+    - limitations_recorded
+    - privacy_checked
+    - child_safety_checked
+    - human_reviewed
+
+privacy:
+  public_tree_forbidden:
+    - full_cpf
+    - civil_document_number
+    - residential_address
+    - private_phone
+    - identifiable_medical_data
+    - child_identifier_without_valid_basis
+  preferred_identity_proofs:
+    - public_author_name
+    - public_key
+    - cryptographic_signature
+    - signed_commit
+    - academic_identifier
+
+licensing:
+  third_party_license_precedence: true
+  preserve_upstream_history: true
+  unclassified_component:
+    license: TOKEN_VAZIO
+    relicensing_allowed: false
+  open_license_permissions_cannot_be_retracted_by_manifesto: true
+
+historical_documents:
+  preserved_as_evolution_record: true
+  authoritative_when_conflicting_with_canonical_policy: false
+
+release_gate:
+  claim_allowed: false
+  blockers:
+    - provenance_inventory
+    - third_party_license_matrix
+    - spdx_coverage
+    - historical_personal_data_decision
