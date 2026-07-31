@@ -1,5 +1,9 @@
 # 🌟 CientiEspiritual - Framework Cognitivo Evolutivo Absoluto (FCEA) ∆👁️‍🗨️
 
+**Estado:** `ACTIVE`  
+**Proprietário lógico:** `documentation-governance`  
+**Repositório:** [`rafaelmeloreisnovo/CientiEspiritual`](https://github.com/rafaelmeloreisnovo/CientiEspiritual)
+
 ## ⚠️ AVISO IMPORTANTE
 
 **Este repositório é um framework conceitual e computacional** dedicado a pesquisa, ética e governança. 
