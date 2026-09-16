@@ -1,7 +1,7 @@
 # 🌟 CientiEspiritual - Framework Cognitivo Evolutivo Absoluto (FCEA) ∆👁️‍🗨️
 
 **Estado:** `ACTIVE`  
-**Proprietário lógico:** `documentation-governance`  
+**Responsável lógico pela manutenção:** `documentation-governance`  
 **Repositório:** [`rafaelmeloreisnovo/CientiEspiritual`](https://github.com/rafaelmeloreisnovo/CientiEspiritual)
 
 ## ⚠️ AVISO IMPORTANTE
@@ -15,6 +15,18 @@ Todo conteúdo representa informação técnica para pesquisa e discussão cient
 Para mais informações, consulte: [Entrega Segura de Informação](./best_practices/entrega_segura_de_informacao.md)
 
 ---
+
+## ⚖️ Licenciamento e conformidade
+
+A fonte normativa é [`License.md`](License.md), em conjunto com avisos de
+arquivo/diretório e licenças upstream. Este repositório **não declara uma única
+licença open-source para todo o corpus**: código sem proveniência/licença
+determinada permanece `TOKEN_VAZIO`.
+
+A presença de referências a LGPD, GDPR, AI Act, PIPL ou outras normas representa
+objetivos/requisitos de governança; **não constitui certificação ou declaração
+automática de conformidade jurídica** para todo uso, release, dataset ou
+implantação.
 
 ## 📖 Prefácio
 
@@ -123,7 +135,7 @@ CientiEspiritual é uma plataforma de conhecimento que:
 - Código Ético-Jurídico RAFAELIA (conformidade global)
 - Loop moral embutido em sistemas tecnológicos
 - Framework de ética viva para IA e biotecnologia
-- Compliance com GDPR, LGPD, AI Act, PIPL, CCPA
+- Requisitos e referências de governança relacionados a GDPR, LGPD, AI Act e PIPL; conformidade efetiva depende do contexto, implementação, dados e auditoria aplicável, CCPA
 
 **Aplicações:**
 - Governança de dados e privacidade
@@ -143,7 +155,7 @@ CientiEspiritual é uma plataforma de conhecimento que:
 1. **Acessibilidade Total**: Não requer supercomputadores ou infraestrutura cara
 2. **Ética Incorporada**: Todos os sistemas têm loop moral que previne uso malicioso
 3. **Validação Científica**: Baseado em pesquisas reais e dados verificáveis
-4. **Código Aberto**: Transparência total e possibilidade de auditoria
+4. **Código-fonte publicamente auditável**: a visibilidade do código não implica uma licença única; permissões dependem de [`License.md`](License.md) e dos avisos aplicáveis a cada componente
 5. **Aplicação Prática**: Soluções reais para problemas reais
 6. **Sem Barreiras**: Funciona em celulares simples, Termux, Raspberry Pi
 7. **Multidisciplinar**: Abordagem integrada de múltiplas áreas do conhecimento
@@ -170,9 +182,9 @@ CientiEspiritual é uma plataforma de conhecimento que:
 | **Custo de Infraestrutura** | Alto (GPUs, Cloud) | Mínimo (celular comum) |
 | **Ética** | Opcional/Posterior | Incorporada desde o design |
 | **Alucinações em IA** | Problema comum | Eliminadas por design |
-| **Acesso** | Pago/Restrito | Livre e aberto |
+| **Acesso** | Pago/Restrito | Repositório público; direitos de reutilização dependem da licença aplicável |
 | **Aplicação em Pesquisa Médica** | Limitada/Regulada | Frameworks de pesquisa preventiva |
-| **Transparência** | Caixa preta | Código e lógica abertos |
+| **Transparência** | Caixa preta | Código/lógica inspecionáveis; licenciamento é avaliado por componente |
 | **Interdisciplinaridade** | Especializada | Totalmente integrada |
 
 ### **Vantagem Competitiva:**
