@@ -1,15 +1,15 @@
-# RAFAELIA — Referência Internacional de Autoria — V1
+# RAFAELIA — Referência Internacional de Autoria — V2 (Rollback Berna)
 
 **Repository:** `rafaelmeloreisnovo/CientiEspiritual`  
-**Status:** `SCOPED_POINTER / LEGAL_REVIEW_REQUIRED / claim_allowed=false`
+**Status:** `SCOPED_POINTER_ROLLBACK_ACTIVE / LEGAL_REVIEW_REQUIRED / claim_allowed=false`
 
 ## Autoridade canônica
 
-A doutrina internacional de autoria deste núcleo é mantida em:
+A rota canônica de autoria/proveniência deste núcleo, restaurada por rollback, é mantida em:
 
 ```text
 rafaelmeloreisnovo/Mapa
-docs/legal/INTERNATIONAL_AUTHORSHIP_TREATY_DOCTRINE_V1.md
+docs/legal/BERNE_AUTHORIAL_SCOPE_ROLLBACK_V2.md
 ```
 
 Este arquivo é deliberadamente curto para evitar divergência entre cópias.
@@ -47,6 +47,6 @@ Somente material autoral demonstrado pode receber notice RAFAELIA compatível co
 
 ## R3
 
-F_ok: ponte jurídica internacional apontada para autoridade única.  
+F_ok: ponte jurídica internacional atualizada para o rollback canônico Berna V2.  
 F_gap: titularidade/licença continua arquivo-específica.  
 F_next: mudanças de licença exigem auditoria de proveniência e compatibilidade antes de qualquer relicenciamento.
